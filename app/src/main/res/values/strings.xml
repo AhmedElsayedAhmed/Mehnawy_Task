@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mehnawy_Task</string>
+    <string name="repository">Repository Html_url</string>
+    <string name="owner">Owner Html_url</string>
+</resources>
